@@ -1,0 +1,15 @@
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\bin\Debug\net6.0\ConsoleTetris.exe
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\bin\Debug\net6.0\ConsoleTetris.deps.json
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\bin\Debug\net6.0\ConsoleTetris.runtimeconfig.json
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\bin\Debug\net6.0\ConsoleTetris.dll
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\bin\Debug\net6.0\ConsoleTetris.pdb
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.csproj.AssemblyReference.cache
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.AssemblyInfoInputs.cache
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.AssemblyInfo.cs
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.csproj.CoreCompileInputs.cache
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.dll
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\refint\ConsoleTetris.dll
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.pdb
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ConsoleTetris.genruntimeconfig.cache
+C:\Users\kings\Documents\MyProgrammingFiles\VSCommunity\C#\ConsoleTetris\obj\Debug\net6.0\ref\ConsoleTetris.dll

@@ -1,0 +1,14 @@
+D:\program\VSCommunity\C#\ConsoleDungeon\bin\Debug\net8.0\ConsoleDungeon.exe
+D:\program\VSCommunity\C#\ConsoleDungeon\bin\Debug\net8.0\ConsoleDungeon.deps.json
+D:\program\VSCommunity\C#\ConsoleDungeon\bin\Debug\net8.0\ConsoleDungeon.runtimeconfig.json
+D:\program\VSCommunity\C#\ConsoleDungeon\bin\Debug\net8.0\ConsoleDungeon.dll
+D:\program\VSCommunity\C#\ConsoleDungeon\bin\Debug\net8.0\ConsoleDungeon.pdb
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ConsoleDungeon.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ConsoleDungeon.AssemblyInfoInputs.cache
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ConsoleDungeon.AssemblyInfo.cs
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ConsoleDungeon.csproj.CoreCompileInputs.cache
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ConsoleDungeon.dll
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\refint\ConsoleDungeon.dll
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ConsoleDungeon.pdb
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ConsoleDungeon.genruntimeconfig.cache
+D:\program\VSCommunity\C#\ConsoleDungeon\obj\Debug\net8.0\ref\ConsoleDungeon.dll
